@@ -1,5 +1,7 @@
 # Results summary component
 
+## Live Link: https://ataullah1.github.io/Results-summary-component/
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Hi, Welcome! 👋
