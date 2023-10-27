@@ -1,8 +1,10 @@
-# Frontend Mentor - Results summary component
+# Results summary component
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Hi, Welcome! 👋
+
+### I'm [Md Ataullah](https://www.linkedin.com/in/md-ataullah/)😊
 
 Thanks for checking out this front-end coding challenge.
 
@@ -98,6 +100,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ## Contact and Follow me:
 
-- [Linkedin >](https://www.linkedin.com/in/md-ataullah/)😊
-- [Facebook >](https://www.facebook.com/MdAtaullah11)😊
-- [WhatsApp >](https://api.whatsapp.com/send/?phone=8801719199967&text&type=phone_number&app_absent=0)😊
+- ➡[Linkedin >](https://www.linkedin.com/in/md-ataullah/)
+- ➡[Facebook >](https://www.facebook.com/MdAtaullah11)
+- ➡[WhatsApp >](https://api.whatsapp.com/send/?phone=8801719199967&text&type=phone_number&app_absent=0)
